@@ -1,3 +1,5 @@
+# Git-Compare-with-DuckPattern-ReactJS
+
 Simple application with Duck Pattern.
 
 Run with:
